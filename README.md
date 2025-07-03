@@ -30,3 +30,4 @@
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
+2. [AVL Tree Insertion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Insertion)
