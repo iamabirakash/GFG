@@ -18,6 +18,7 @@
 14. [Stack using Linked List](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Stack%20using%20Linked%20List)
 15. [Queue Using Array](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Queue%20Using%20Array)
 16. [Frequency in Queue](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Frequency%20in%20Queue)
+17. [Height of Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Height%20of%20Binary%20Tree)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
