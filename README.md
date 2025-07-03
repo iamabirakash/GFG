@@ -20,6 +20,7 @@
 16. [Frequency in Queue](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Frequency%20in%20Queue)
 17. [Height of Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Height%20of%20Binary%20Tree)
 18. [Identical Trees](https://github.com/iamabirakash/GFG/tree/main/TREE/Identical%20Trees)
+19. [Insert a node in a BST](https://github.com/iamabirakash/GFG/tree/main/TREE/Insert%20a%20node%20in%20a%20BST)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
