@@ -22,6 +22,7 @@
 18. [Identical Trees](https://github.com/iamabirakash/GFG/tree/main/TREE/Identical%20Trees)
 19. [Insert a node in a BST](https://github.com/iamabirakash/GFG/tree/main/TREE/Insert%20a%20node%20in%20a%20BST)
 20. [Count Leaves in Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Count%20Leaves%20in%20Binary%20Tree)
+21. [Check for BST](https://github.com/iamabirakash/GFG/tree/main/TREE/Check%20for%20BST)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
