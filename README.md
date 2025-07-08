@@ -32,6 +32,7 @@
 5. [Sum Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Sum%20Tree)
 6. [Diameter of a Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Diameter%20of%20a%20Binary%20Tree)
 7. [Height of Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Height%20of%20Binary%20Tree)
+8. [Next Greater Element](https://github.com/iamabirakash/GFG/tree/main/STACK/Next%20Greater%20Element)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
