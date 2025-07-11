@@ -26,6 +26,7 @@
 22. [Union of Arrays with Duplicates](https://github.com/iamabirakash/GFG/tree/main/HASHING/Union%20of%20Arrays%20with%20Duplicates)
 23. [At Least K Occurrences](https://github.com/iamabirakash/GFG/tree/main/HASHING/At%20Least%20K%20Occurrences)
 24. [Largest subarray of 0's and 1's](https://github.com/iamabirakash/GFG/tree/main/HASHING/Largest%20subarray%20of%200's%20and%201's)
+25. [Relative Ranks](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Relative%20Ranks)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
