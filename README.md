@@ -36,6 +36,7 @@
 7. [Height of Binary Tree](https://github.com/iamabirakash/GFG/tree/main/TREE/Height%20of%20Binary%20Tree)
 8. [Next Greater Element](https://github.com/iamabirakash/GFG/tree/main/STACK/Next%20Greater%20Element)
 9. [Smaller on Left](https://github.com/iamabirakash/GFG/tree/main/STACK/Smaller%20on%20Left)
+10. [Largest subarray with 0 sum](https://github.com/iamabirakash/GFG/tree/main/HASHING/Largest%20subarray%20with%200%20sum)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
