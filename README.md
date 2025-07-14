@@ -40,6 +40,7 @@
 9. [Smaller on Left](https://github.com/iamabirakash/GFG/tree/main/STACK/Smaller%20on%20Left)
 10. [Largest subarray with 0 sum](https://github.com/iamabirakash/GFG/tree/main/HASHING/Largest%20subarray%20with%200%20sum)
 11. [Longest Consecutive Subsequence](https://github.com/iamabirakash/GFG/tree/main/HASHING/Longest%20Consecutive%20Subsequence)
+12. [Binary Heap Operations](https://github.com/iamabirakash/GFG/tree/main/HEAP/Binary%20Heap%20Operations)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
