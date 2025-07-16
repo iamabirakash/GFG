@@ -42,6 +42,7 @@
 11. [Longest Consecutive Subsequence](https://github.com/iamabirakash/GFG/tree/main/HASHING/Longest%20Consecutive%20Subsequence)
 12. [Binary Heap Operations](https://github.com/iamabirakash/GFG/tree/main/HEAP/Binary%20Heap%20Operations)
 13. [Kth Smallest](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Kth%20Smallest)
+14. [Transitive closure of a Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Transitive%20closure%20of%20a%20Graph)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
