@@ -43,6 +43,7 @@
 12. [Binary Heap Operations](https://github.com/iamabirakash/GFG/tree/main/HEAP/Binary%20Heap%20Operations)
 13. [Kth Smallest](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Kth%20Smallest)
 14. [Transitive closure of a Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Transitive%20closure%20of%20a%20Graph)
+15. [Connected Components in an Undirected Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Connected%20Components%20in%20an%20Undirected%20Graph)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
