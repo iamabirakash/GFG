@@ -44,6 +44,7 @@
 13. [Kth Smallest](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Kth%20Smallest)
 14. [Transitive closure of a Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Transitive%20closure%20of%20a%20Graph)
 15. [Connected Components in an Undirected Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Connected%20Components%20in%20an%20Undirected%20Graph)
+16. [Generate all binary strings](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Generate%20all%20binary%20strings)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
