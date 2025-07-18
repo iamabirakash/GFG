@@ -30,6 +30,7 @@
 26. [Find the number of islands](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Find%20the%20number%20of%20islands)
 27. [Odd or Even](https://github.com/iamabirakash/GFG/tree/main/BIT%20MANIPULATION/Odd%20or%20Even)
 28. [Set the rightmost unset bit](https://github.com/iamabirakash/GFG/tree/main/BIT%20MANIPULATION/Set%20the%20rightmost%20unset%20bit)
+29. [Swap two numbers](https://github.com/iamabirakash/GFG/tree/main/BIT%20MANIPULATION/Swap%20two%20numbers)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
