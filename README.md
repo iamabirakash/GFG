@@ -52,6 +52,7 @@
 16. [Generate all binary strings](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Generate%20all%20binary%20strings)
 17. [Stickler Thief](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Stickler%20Thief)
 18. [Min Cost Climbing Stairs](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Min%20Cost%20Climbing%20Stairs)
+19. [Number of paths](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Number%20of%20paths)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
