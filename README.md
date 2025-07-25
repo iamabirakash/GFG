@@ -53,6 +53,7 @@
 17. [Stickler Thief](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Stickler%20Thief)
 18. [Min Cost Climbing Stairs](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Min%20Cost%20Climbing%20Stairs)
 19. [Number of paths](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Number%20of%20paths)
+20. [Fractional Knapsack](https://github.com/iamabirakash/GFG/tree/main/GREEDY/Fractional%20Knapsack)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
