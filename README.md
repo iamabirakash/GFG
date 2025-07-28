@@ -58,6 +58,7 @@
 22. [Matrix Chain Multiplication](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Matrix%20Chain%20Multiplication)
 23. [BFS of graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/BFS)
 24. [DFS of Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/DFS)
+25. [Topological sort](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Topological%20sort)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
