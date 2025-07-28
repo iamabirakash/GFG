@@ -56,6 +56,7 @@
 20. [Fractional Knapsack](https://github.com/iamabirakash/GFG/tree/main/GREEDY/Fractional%20Knapsack)
 21. [0 - 1 Knapsack Problem](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/0%20-%201%20Knapsack%20Problem)
 22. [Matrix Chain Multiplication](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Matrix%20Chain%20Multiplication)
+23. [BFS of graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/BFS)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
