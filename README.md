@@ -66,3 +66,4 @@
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
 2. [AVL Tree Insertion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Insertion)
 3. [Max Circular Subarray Sum](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Max%20Circular%20Subarray%20Sum)
+4. [Longest Periodic Proper Prefix](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Longest%20Periodic%20Proper%20Prefix)
