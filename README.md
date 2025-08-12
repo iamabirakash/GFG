@@ -63,6 +63,7 @@
 25. [Topological sort](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Topological%20sort)
 26. [Shop in Candy Store](https://github.com/iamabirakash/GFG/tree/main/GREEDY/Shop%20in%20Candy%20Store)
 27. [Implement Atoi](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Implement%20Atoi)
+28. [Add Binary Strings](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Add%20Binary%20Strings)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
