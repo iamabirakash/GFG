@@ -61,6 +61,7 @@
 23. [BFS of graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/BFS)
 24. [DFS of Graph](https://github.com/iamabirakash/GFG/tree/main/GRAPH/DFS)
 25. [Topological sort](https://github.com/iamabirakash/GFG/tree/main/GRAPH/Topological%20sort)
+26. [Shop in Candy Store](https://github.com/iamabirakash/GFG/tree/main/GREEDY/Shop%20in%20Candy%20Store)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
