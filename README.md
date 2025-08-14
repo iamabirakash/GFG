@@ -35,6 +35,7 @@
 31. [Palindrome Sentence](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Palindrome%20Sentence)
 32. [Roman Number to Integer](https://github.com/iamabirakash/GFG/tree/main/HASHING/Roman%20Number%20to%20Integer)
 33. [Tywin's War Strategy](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Tywin's%20War%20Strategy)
+34. [Anagram](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Anagram)
 
 * ## Medium
 1. [Merge two sorted linked lists](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Merge%20two%20sorted%20linked%20lists)
