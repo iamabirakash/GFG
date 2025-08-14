@@ -76,3 +76,4 @@
 5. [Palindrome SubStrings](https://github.com/iamabirakash/GFG/tree/main/DYNAMIC%20PROGRAMMING/Palindrome%20SubStrings)
 6. [Maximum Non-Overlapping Odd Palindrome Sum](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Maximum%20Non-Overlapping%20Odd%20Palindrome%20Sum)
 7. [Count Reverse Pairs](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Count%20Reverse%20Pairs)
+8. [Search Pattern](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Search%20Pattern)
