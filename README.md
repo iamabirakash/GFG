@@ -68,6 +68,7 @@
 27. [Implement Atoi](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Implement%20Atoi)
 28. [Add Binary Strings](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Add%20Binary%20Strings)
 29. [Insert Interval](https://github.com/iamabirakash/GFG/tree/main/GREEDY/Insert%20Interval)
+30. [Count the number of possible triangles](https://github.com/iamabirakash/GFG/tree/main/SORTING/Count%20the%20number%20of%20possible%20triangles)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
