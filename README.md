@@ -71,6 +71,7 @@
 30. [Count the number of possible triangles](https://github.com/iamabirakash/GFG/tree/main/SORTING/Count%20the%20number%20of%20possible%20triangles)
 31. [Maximize Number of 1's](https://github.com/iamabirakash/GFG/tree/main/SLIDING%20WINDOW/Maximize%20Number%20of%201's)
 32. [The Celebrity Problem](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/The%20Celebrity%20Problem)
+33. [Strings Rotations of Each Other](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Strings%20Rotations%20of%20Each%20Other)
 
 * ## Hard
 1. [AVL Tree Deletion](https://github.com/iamabirakash/GFG/tree/main/TREE/AVL%20Tree%20Deletion)
