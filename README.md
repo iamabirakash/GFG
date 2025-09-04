@@ -81,3 +81,4 @@
 6. [Maximum Non-Overlapping Odd Palindrome Sum](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Maximum%20Non-Overlapping%20Odd%20Palindrome%20Sum)
 7. [Count Reverse Pairs](https://github.com/iamabirakash/GFG/tree/main/ARRAYS/Count%20Reverse%20Pairs)
 8. [Search Pattern](https://github.com/iamabirakash/GFG/tree/main/STRINGS/Search%20Pattern)
+9. [Linked List Group Reverse](https://github.com/iamabirakash/GFG/tree/main/LINKED%20LIST/Linked%20List%20Group%20Reverse)
